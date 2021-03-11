@@ -1,0 +1,3 @@
+This file is in master
+And it will cause merge conflict
+
