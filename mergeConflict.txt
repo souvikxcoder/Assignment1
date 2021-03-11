@@ -1,3 +1,2 @@
-This file is in master
-And it will cause merge conflict
+merge conflict will happen
 
